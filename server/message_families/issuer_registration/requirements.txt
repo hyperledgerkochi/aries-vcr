@@ -1,3 +1,4 @@
 aries_cloudagent
 
 marshmallow==3.0.0
+setuptools>=78.1.1 # not directly required, pinned by Snyk to avoid a vulnerability
