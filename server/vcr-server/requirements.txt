@@ -36,7 +36,7 @@ drf-generators>=0.3.0
 ptvsd==4.1.1a1
 
 # aiohttp
-aiohttp~=3.4.0
+aiohttp~=3.12.14
 aiohttp-wsgi~=0.8.1
 
 asgiref~=3.1.2
