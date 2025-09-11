@@ -1,6 +1,6 @@
 certifi==2018.11.29
 chardet==3.0.4
-Django<3
+Django<4.2.24
 djangorestframework<4
 drf-haystack<1.9
 idna==2.8
