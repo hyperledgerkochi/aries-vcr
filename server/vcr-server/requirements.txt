@@ -1,5 +1,5 @@
 # Main
-django>=2.2,<3
+django>=4.2.27
 djangorestframework>=3.9.1,<4
 djangorestframework-bulk>=0.2.1,<1
 django-cors-headers>=3
@@ -45,3 +45,4 @@ asgiref~=3.1.2
 django-rest-hooks==1.5.0
 drf-nested-routers
 celery~=4.3.0
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
